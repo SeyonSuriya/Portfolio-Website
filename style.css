@@ -513,3 +513,17 @@ body{
     height: 100%;
     border-radius: 5px;
 }
+
+.contact-info{
+    width: 600px;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid #fff;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    display: grid;
+}
